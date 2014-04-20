@@ -1,6 +1,6 @@
 <?php
      //error_reporting(0);
-     define('DB_HOST','127.12.46.130:3306');
+     define('DB_HOST','127.12.46.130');
      define('DB_USER','adminn7WWkxp');
      define('DB_PASS','gorgonzola7!');
      define('DB_NAME','cmspages');        
