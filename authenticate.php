@@ -1,6 +1,6 @@
 <?php
 
-    define('ADMIN_LOGIN','serveruser');
+    define('ADMIN_LOGIN','adminn7WWkxp');
 
     define('ADMIN_PASSWORD','gorgonzola7!');
 

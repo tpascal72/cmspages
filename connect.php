@@ -1,9 +1,9 @@
 <?php
      //error_reporting(0);
-     define('DB_HOST','localhost');
-     define('DB_USER','serveruser');
+     define('DB_HOST','127.12.46.130:3306');
+     define('DB_USER','adminn7WWkxp');
      define('DB_PASS','gorgonzola7!');
-     define('DB_NAME','serverside');        
+     define('DB_NAME','cmspages');        
  
      // Create a MySQLi resource object called $db.
      $db = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME); 
